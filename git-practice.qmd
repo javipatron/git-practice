@@ -13,3 +13,17 @@ Add some text for reference
 cool_code <- c(1,2,3)
 ```
 
+this is new stuff in the branch apple pie
+
+
+in line 19 im adding some cool stuff and then im branching a new tab
+
+
+what im doing is a new code in the new-branch-2
+```{r}
+alo <- c("This is", "a", "vector")
+
+
+```
+
+

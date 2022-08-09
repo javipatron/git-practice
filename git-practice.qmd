@@ -5,3 +5,11 @@ editor: visual
 ---
 
 
+# ASK how you create a README
+
+Add some text for reference
+
+```{r}
+cool_code <- c(1,2,3)
+```
+
